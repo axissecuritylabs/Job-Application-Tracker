@@ -78,7 +78,7 @@ Data is browser-specific and device-specific. Opening the file in a different br
 
 ## Hosted version
 
-The tracker is hosted via GitHub Pages at: `https://[axissecuritylabs].github.io/[Job-Application-Tracker]/`
+The tracker is hosted via GitHub Pages at:(https://axissecuritylabs.github.io/Job-Application-Tracker/)
 
 Hosting it here resolves rendering issues that occur when the HTML file is sent as an email attachment and the receiving client strips, sandboxes, or fails to parse the embedded styles and scripts. Opening the live link in any modern browser produces a clean, fully functional tracker.
 
