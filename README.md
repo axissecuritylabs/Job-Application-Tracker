@@ -4,6 +4,8 @@ A browser-based job application tracker built and distributed by Axis Security S
 
 The entire tracker runs from a single HTML file. No installs, no accounts, no backend. Data saves locally to the user's browser.
 
+Link: https://axissecuritylabs.github.io/Job-Application-Tracker
+
 ---
 
 ## What this tracker does
